@@ -102,6 +102,7 @@ print('se tardo', round(time.time() - inicio, 2), 'segundos')
 # -- Obtener posiciones historicas
 
 # nota, pasar en todos los meses las posiciones en KOFL.MXN y BSMXB.MX a CASH en MXN
+
 # tomar solo las fechas de interes
 # tomar solo las columnas de interes
 # transponer matriz para tener x: fechas, y: precios
