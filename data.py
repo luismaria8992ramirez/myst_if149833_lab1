@@ -1,6 +1,4 @@
 
-"""
-# -- --------------------------------------------------------------------------------------------------- -- #
 # -- project: Contrast passive investment against active investment Carry out rebalancing policies       -- #
 #    to maximize performance.                                                                            -- #
 # -- script: visualizations.py : python script with data visualization functions                         -- #
